@@ -1,0 +1,8 @@
+streamlit
+yfinance
+python-dotenv
+pandas
+plotly
+google-adk 
+requests
+beautifulsoup4
