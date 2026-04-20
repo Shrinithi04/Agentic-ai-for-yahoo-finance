@@ -19,7 +19,7 @@ from agent_logic import (
 
 st.set_page_config(page_title="Stock Insights AI Agent", layout="wide")
 
-st.title("Stock Insights — AI Agent (yfinance + Google ADK + Streamlit)")
+st.title("Stock Insights — AI Agent ")
 
 api_key = os.getenv("GOOGLE_API_KEY")
 if not api_key:
